@@ -6,8 +6,8 @@
 - **Backend** PHP, CodeIgniter, Laravel, MySQL, MariaDB
 - **Frontend** HTML, CSS, JavaScript, jQuery, Bootstrap
 - **CMS** WordPress, PhpBB
-- **APIs** GoogleMaps, GoogleTranslate, YandexMaps, Facebook, Instagram, Telegram, Vk
-- **Projects** Shops, Catalogs, Admin Panels, Dashboards, Console Scripts
+- **APIs** Google Maps, Google Translate, Yandex Maps, Facebook API
+- **Projects** Shops, Catalogs, Blogs, Dashboards
 <br><br>
 - **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer
 - **Working time** Monday - Friday, 10:00 - 18:00

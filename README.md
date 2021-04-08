@@ -6,7 +6,7 @@
 - **Backend** PHP, CodeIgniter, Laravel, MySQL, MariaDB
 - **Frontend** HTML, CSS, JavaScript, jQuery, Bootstrap
 - **CMS** WordPress, PhpBB
-- **APIs** Google Maps, Google Translate, Yandex Maps, Facebook API
+- **APIs** Google Maps, Google Translate, Yandex Maps, Facebook
 - **Projects** Shops, Catalogs, Blogs, Dashboards
 <br><br>
 - **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer

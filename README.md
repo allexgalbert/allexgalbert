@@ -7,14 +7,12 @@
 - **Frontend** HTML, CSS, JavaScript, jQuery, Bootstrap
 <br><br>
 - **CMS** WordPress, PhpBB
-- **APIs** Google Maps, Google Translate, Yandex Maps, Facebook
+- **APIs** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram
 - **Projects** Shops, Catalogs, Blogs, Dashboards
 <br><br>
 - **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer
 - **Working time** Monday - Friday, 10:00 - 18:00
 - **Timezone** Europe/Moscow UTC+3:00 MSK
-<br><br>
-- **Contacts** https://t.me/allexgalbert
 
 # Jobs
 

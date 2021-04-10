@@ -15,6 +15,7 @@
 - **Timezone** Europe/Moscow UTC+3:00 MSK
 <br><br>
 - **Hourly Rate** $25/hour
+- **Languages** Russian Native, English Basic
 
 # Jobs
 

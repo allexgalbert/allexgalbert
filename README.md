@@ -7,7 +7,7 @@
 - **Frontend** HTML, CSS, JavaScript, jQuery, Bootstrap
 <br><br>
 - **CMS** WordPress, PhpBB
-- **APIs** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram
+- **API** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram
 - **Projects** Shops, Catalogs, Blogs, Dashboards
 <br><br>
 - **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer

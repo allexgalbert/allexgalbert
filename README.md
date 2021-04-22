@@ -239,4 +239,4 @@ https://github.com/allexgalbert/reviewlicms
 
 Оперативная чистка MySQL баз данных после взлома, внедрения вредоносного кода, ссылок, мусора, нецензурного контента, и прочего. Автоматическая чистка по ключевым словам и словосочетаниям.
 
-![alt text](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Скрипт чистки баз данных от спам-мусора")
+![Скрипт чистки баз данных от спам-мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Скрипт чистки баз данных от спам-мусора")

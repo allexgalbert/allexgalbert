@@ -28,7 +28,7 @@ https://github.com/allexgalbert/reviewlicms
 
 Каталог на CodeIgniter 3. Стандартная постраничная пагинация переписана на кнопку "Ещё". За основу взят пагинатор ядра фреймворка. Кнопка работает корректно со стандартной пагинацией, показывает оставшееся количество товара, который можно подгрузить.
 
-![alt text](https://github.com/allexgalbert/workflow/blob/master/Portfolio/imgs/29.gif "Динамическая Кнопка 'Ещё' на каталоге товаров")
+![alt text](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/29.gif "Динамическая Кнопка 'Ещё' на каталоге товаров")
 
 ## Система работы сайта на динамическом поддомене
 

@@ -19,7 +19,7 @@
 
 # Jobs
 
-## Developer of Reviewli CMS
+## Reviewli CMS
 https://github.com/allexgalbert/reviewlicms
 
 ![alt text](https://raw.githubusercontent.com/allexgalbert/reviewlicms/main/DOC/fullLogo.png "Reviewli CMS")
@@ -44,19 +44,19 @@ https://github.com/allexgalbert/reviewlicms
 
 Таким образом фактически домен domain.com является пустым. Поддомен a.domain.com, который легко сменить на другой, не теряя позиции домена в поисковых системах и SEO. Избавляет от переезда с домена на домен и потерю ссылочной массы.
 
-![alt text](https://github.com/allexgalbert/workflow/blob/master/Portfolio/imgs/28.png "Система работы сайта на динамическом поддомене")
+![alt text](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/28.png "Система работы сайта на динамическом поддомене")
 
 ## Работа с картой OpenStreetMap через библиотеку Leaflet
 
 Реализация рендеринга карты OpenStreetMap через javascript-библиотеку Leaflet. Установка маркеров, с названием и попапом. Вывод одного или нескольких маркеров на карту. Центрирование карты. Масштаб на маркер. Кастомизированные иконки маркеров. Прослушивание событий. Удаление маркеров. Поле поиска. Нечеткий поиск. Автодополнение при поиске. Автоматическое определение текущей геолокации пользователя. Использованы библиотеки Leaflet, Esri-Leaflet, Esri-Leaflet-Geocoder.
   
-![alt text](https://github.com/allexgalbert/workflow/blob/master/Portfolio/imgs/27.gif "Работа с картой OpenStreetMap через библиотеку LeafletJS")
+![alt text](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/27.gif "Работа с картой OpenStreetMap через библиотеку LeafletJS")
 
 ## Яндекс-карты, вывод городов и адресов на карту
 
 Создание Яндекс-карты с точками городов, и отдельным выводом меню городов. При клике на город, карта увеличивается, появляется возможность посмотреть точки (конкретные адреса) в этом города.
 
-![alt text](https://github.com/allexgalbert/workflow/blob/master/Portfolio/imgs/26_1.gif "Яндекс-карты, вывод городов и адресов на карту")
+![alt text](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/26_1.gif "Яндекс-карты, вывод городов и адресов на карту")
 
 ## Работа с API Новой Пошты
 

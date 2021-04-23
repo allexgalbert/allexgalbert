@@ -205,31 +205,6 @@ https://github.com/allexgalbert/reviewlicms
 
 ![Скрипт работы с wordpress-блогами](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/9.png "Скрипт работы с wordpress-блогами")
 
-## Скрипт снятия seo-параметров доменов
-
-Определения для множества доменов Google PR(тулбарный), кол-ва страниц в индексе, кол-во обратных ссылок, кол-во упоминаний домена в ruGoogle, comGoogle. Яндекс ТИЦ(тулбарный, каталожный), кол-во страниц в индексе, кол-во упоминаний домена в Яндекс. Определение на склейку(каталожная и тулбарная). Полный whois на домены.
-
-![Скрипт снятия seo-параметров доменов](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/8.png "Скрипт снятия seo-параметров доменов")
-
-## Скрипт работы с Blogger, Wordpress, LiveJournal
-
-Система многопоточного автоматического постинга контента на указанные платформы. С возможностью добавления в пост рекламы, баннеров, простановка ката, автозалив картинок в блог. Автогенерация категории и тегов на основе статьи. Прокси. Без использования непосредственно админки блога, по протоколу xml-rpc. Написана как часть системы полуавтоматического постинга из админки, для веб-сервиса генерации контента.
-
-![Скрипт работы с Blogger, Wordpress, LiveJournal](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/7.png "Скрипт работы с Blogger, Wordpress, LiveJournal")
-
-## Скрипт парсинга rss-каналов
-
-Автоматический парсинг указанных в базе RSS-каналов. Забор урла поста, заголовка, переход на страницу поста и забор полного тела статьи по указанным в базе селекторам. Запуск по крону. Автообновление. Контроль уникальности спарсенных статей. Прокси.
-
-![Скрипт парсинга rss-каналов](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/6.png "Скрипт парсинга rss-каналов")
-
-## Скрипт загрузки картинок в Google Picasa
-
-Автоматический загрузчик картинок в аккаунт Picasa в указанный фотоальбом пользователя. Авторизация, определение типа и расширения картинки, выбор имени для картинки. Получение урла залитого изображения.
-
-![Скрипт загрузки картинок в Google Picasa](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/5.png "Скрипт загрузки картинок в Google Picasa")
-
-
 ## Инструмент очистки баз данных от мусора
 
 [![Инструмент очистки баз данных от мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Инструмент очистки баз данных от мусора")](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)

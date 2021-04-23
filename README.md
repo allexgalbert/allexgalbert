@@ -235,8 +235,10 @@ https://github.com/allexgalbert/reviewlicms
 
 ![Скрипт парсера ютуб-сайтов](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/3.png "Скрипт парсера ютуб-сайтов")
 
-## Скрипт чистки баз данных от спам-мусора
+## Инструмент очистки баз данных от мусора
 
-Оперативная чистка MySQL баз данных после взлома, внедрения вредоносного кода, ссылок, мусора, нецензурного контента, и прочего. Автоматическая чистка по ключевым словам и словосочетаниям.
+Инструмент очистки баз данных на базе MySQL от мусора, плохих ссылок, спама, вредоносного кода, нецензурного контента. Автоматическая очистка по всем таблицам и полям, по ключевым словам и словосочетаниям.
 
-![Скрипт чистки баз данных от спам-мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Скрипт чистки баз данных от спам-мусора")
+[Код](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)
+
+![Инструмент очистки баз данных от мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Инструмент очистки баз данных от мусора")

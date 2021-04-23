@@ -97,30 +97,12 @@ https://github.com/allexgalbert/reviewlicms
 
 ## Каталог музыкальных исполнителей
 
-![Каталог музыкальных исполнителей](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/18.png "Каталог музыкальных исполнителей")
+[![Каталог музыкальных исполнителей](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Каталог музыкальных исполнителей")](http://albertaugustine.com)
 
 Сайт музыкального сообщества. На каждого артиста своя страница с фото, плейлист треков, подборка видео, биография, выборка последних постов с твиттера и фейсбука, данного артиста, последние новости цитаты и концерты. Создан на Kohana. http://albertaugustine.com
 
-## Проект для компании "Фотострана"
-
-![Проект для компании Фотострана](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/17.png "Проект для компании Фотострана")
-
-Организация взаимодействия рекламных партнеров фотостраны. Контентные страницы: О проекте, Статистика, Возможности, Стоимость, Кейсы, FAQ, Контакты. Административная часть: работа с партнерами, кейсами, страницами, событиями. Создан на Kohana.
-
-## Гостиница-отель
-
-![Гостиница-отель](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/16.png "Гостиница-отель")
-
-Доработка административной части сайта congresscomplex.ru. Создание мета-полей для сео-тегов, на каждой странице. Создание полей в админке и базе данных. Доработка редактора CKeditor. Движок кастомный. Фреймворк Codeigniter. http://congresscomplex.ru
-
-## Магазин сантехники Акварим
-
-[![Магазин сантехники Акварим](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/1.png "Магазин сантехники Акварим")](http://aquarome.ru)
-
-Доработка админки, и страниц каталога и товара. Верстка сайта компании Акварим. Онлайн-магазин сантехники. Страницы каталога, спецпредложений, услуги, контакты, о компании, статичные страницы. Вертикальная выкладка товара. http://aquarome.ru
-
 ## Инструмент очистки баз данных от мусора
 
-[![Инструмент очистки баз данных от мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Инструмент очистки баз данных от мусора")](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)
+[![Инструмент очистки баз данных от мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/1.png "Инструмент очистки баз данных от мусора")](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)
 
 Инструмент очистки баз данных на базе MySQL от мусора, плохих ссылок, спама, вредоносного кода, нецензурного контента. Автоматическая очистка по всем таблицам и полям, по ключевым словам и словосочетаниям. [Код](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)

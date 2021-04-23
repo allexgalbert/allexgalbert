@@ -73,9 +73,9 @@ https://github.com/allexgalbert/reviewlicms
 
 ## Биржа фриланса
 
-[![Биржа фриланса](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/4.png "Биржа фриланса")](ссылка на репоз)
+[![Биржа фриланса](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/4.png "Биржа фриланса")](https://github.com)
 
-На чистом PHP реализована биржа фриланса. Каталог проектов, вакансий, фрилансеров, услуг. Категории, портфолио, стоимость. Вход через соцсети. [Код](ссылка на репоз)
+На чистом PHP реализована биржа фриланса. Каталог проектов, вакансий, фрилансеров, услуг. Категории, портфолио, стоимость. Вход через соцсети. [Код](https://github.com)
 
 ## Агрегатор отзывов
 

@@ -67,9 +67,9 @@ https://github.com/allexgalbert/reviewlicms
 
 ## Бот-переводчик для Telegram
 
-![Бот-переводчик для Telegram](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/24_1.png "Бот-переводчик для Telegram")
+[![Бот-переводчик для Telegram](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/5.png "Бот-переводчик для Telegram")](https://github.com/allexgalbert/workflow/tree/main/TelegramBot)
 
-Бот работает в связке VK-Telegram. Состоит из 2 частей. Первая часть это бот для VK, его можно добавить в любой чат, и он может читать все сообщения в чате. Вторая часть это бот для Telegram, он занимается тем, что собирает сообщения из чата VK, переводит на английский язык, и пересылает в Telegram. Кроме английского языка, доступны любые другие языки, потому что перевод работает на базе API Google Translate.
+Бот работает в связке VK-Telegram. Состоит из 2 частей. Первая часть это бот для VK, его можно добавить в любой чат, и он может читать все сообщения в чате. Вторая часть это бот для Telegram, он занимается тем, что собирает сообщения из чата VK, переводит на английский язык, и пересылает в Telegram. Кроме английского языка, доступны любые другие языки, потому что перевод работает на базе API Google Translate. [Код](https://github.com/allexgalbert/workflow/tree/main/TelegramBot)
 
 ## Биржа фриланса
 

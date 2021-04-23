@@ -15,25 +15,23 @@
 - **Timezone** Europe/Moscow UTC+3:00 MSK
 <br><br>
 - **Hourly Rate** $25/hour
-- **Languages** Russian Native, English Basic
+- **Languages** Русский родной, English Basic
 
 # Jobs
 
 ## Reviewli CMS
 
-![Reviewli CMS](https://raw.githubusercontent.com/allexgalbert/reviewlicms/main/DOC/fullLogo.png "Reviewli CMS")
-
-https://github.com/allexgalbert/reviewlicms
+[![Reviewli CMS](https://raw.githubusercontent.com/allexgalbert/reviewlicms/main/DOC/fullLogo.png "Reviewli CMS")](https://github.com/allexgalbert/reviewlicms)
 
 ## Динамическая Кнопка "Ещё" на каталоге товаров
 
-![Динамическая Кнопка 'Ещё' на каталоге товаров](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/29.gif "Динамическая Кнопка 'Ещё' на каталоге товаров")
+[![Динамическая Кнопка 'Ещё' на каталоге товаров](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/10.gif "Динамическая Кнопка 'Ещё' на каталоге товаров")](https://github.com)
 
-Каталог на CodeIgniter 3. Стандартная постраничная пагинация переписана на кнопку "Ещё". За основу взят пагинатор ядра фреймворка. Кнопка работает корректно со стандартной пагинацией, показывает оставшееся количество товара, который можно подгрузить.
+Каталог на CodeIgniter 3. Стандартная постраничная пагинация переписана на кнопку "Ещё". За основу взят пагинатор ядра фреймворка. Кнопка работает корректно со стандартной пагинацией, показывает оставшееся количество товара, который можно подгрузить. [Код](https://github.com)
 
 ## Система работы сайта на динамическом поддомене
 
-![Система работы сайта на динамическом поддомене](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/28.png "Система работы сайта на динамическом поддомене")
+[![Система работы сайта на динамическом поддомене](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/9.png "Система работы сайта на динамическом поддомене")](https://github.com)
 
 Работает на принципе "пустого домена" и отсутствия контента непосредственно на домене domain.com
 
@@ -45,25 +43,25 @@ https://github.com/allexgalbert/reviewlicms
 6. Всех поисковых роботов поисковых систем редиректит с поддомена a.domain.com на домен domain.com
 7. Для всех остальных случаев покажет заглушку "500 error. нет информации".
 
-Таким образом фактически домен domain.com является пустым. Поддомен a.domain.com, который легко сменить на другой, не теряя позиции домена в поисковых системах и SEO. Избавляет от переезда с домена на домен и потерю ссылочной массы.
+Таким образом фактически домен domain.com является пустым. Поддомен a.domain.com, который легко сменить на другой, не теряя позиции домена в поисковых системах и SEO. Избавляет от переезда с домена на домен и потерю ссылочной массы. [Код](https://github.com)
 
 ## Работа с картой OpenStreetMap через библиотеку Leaflet
 
-![Работа с картой OpenStreetMap через библиотеку LeafletJS](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/27.gif "Работа с картой OpenStreetMap через библиотеку LeafletJS")
+[![Работа с картой OpenStreetMap через библиотеку LeafletJS](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/8.gif "Работа с картой OpenStreetMap через библиотеку LeafletJS")](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/LeafletJS.html)
 
-Реализация рендеринга карты OpenStreetMap через javascript-библиотеку Leaflet. Установка маркеров, с названием и попапом. Вывод одного или нескольких маркеров на карту. Центрирование карты. Масштаб на маркер. Кастомизированные иконки маркеров. Прослушивание событий. Удаление маркеров. Поле поиска. Нечеткий поиск. Автодополнение при поиске. Автоматическое определение текущей геолокации пользователя. Использованы библиотеки Leaflet, Esri-Leaflet, Esri-Leaflet-Geocoder.
+Реализация рендеринга карты OpenStreetMap через javascript-библиотеку Leaflet. Установка маркеров, с названием и попапом. Вывод одного или нескольких маркеров на карту. Центрирование карты. Масштаб на маркер. Кастомизированные иконки маркеров. Прослушивание событий. Удаление маркеров. Поле поиска. Нечеткий поиск. Автодополнение при поиске. Автоматическое определение текущей геолокации пользователя. Использованы библиотеки Leaflet, Esri-Leaflet, Esri-Leaflet-Geocoder. [Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/LeafletJS.html)
 
 ## Яндекс-карты, вывод городов и адресов на карту
 
-![Яндекс-карты, вывод городов и адресов на карту](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/26_1.gif "Яндекс-карты, вывод городов и адресов на карту")
+[![Яндекс-карты, вывод городов и адресов на карту](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/7.gif "Яндекс-карты, вывод городов и адресов на карту")](https://github.com/allexgalbert/workflow/tree/main/YandexMapPoints)
 
-Создание Яндекс-карты с точками городов, и отдельным выводом меню городов. При клике на город, карта увеличивается, появляется возможность посмотреть точки (конкретные адреса) в этом города.
+Создание Яндекс-карты с точками городов, и отдельным выводом меню городов. При клике на город, карта увеличивается, появляется возможность посмотреть точки (конкретные адреса) в этом города. [Код](https://github.com/allexgalbert/workflow/tree/main/YandexMapPoints)
 
 ## Работа с API Новой Пошты
 
-![Работа с API Новой Пошты](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/25.gif "Работа с API Новой Пошты")
+[![Работа с API Новой Пошты](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/6.gif "Работа с API Новой Пошты")](https://github.com)
 
-Система доставки почты на Украине, Новая Пошта (https://novaposhta.ua). Включает в себя обширные API-методы, по работе с посылками, клиентами, и доставкой. На магазине спортивного питания, в адреса клиента, был внедрён функционал полного создания адреса, на основе выбора областей, городов, и отделений, компании Новая Пошта. Актуальные данные забираются запросами из сервиса, подставляются в форму, сохраняются. Сделана возможность редактирования.
+Система доставки почты на Украине, Новая Пошта (https://novaposhta.ua). Включает в себя обширные API-методы, по работе с посылками, клиентами, и доставкой. На магазине спортивного питания, в адреса клиента, был внедрён функционал полного создания адреса, на основе выбора областей, городов, и отделений, компании Новая Пошта. Актуальные данные забираются запросами из сервиса, подставляются в форму, сохраняются. Сделана возможность редактирования. [Код](https://github.com)
 
 ## Бот-переводчик для Telegram
 

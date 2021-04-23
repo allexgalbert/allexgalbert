@@ -83,12 +83,6 @@ https://github.com/allexgalbert/reviewlicms
 
 Сайт демонстрации и предзаказа деревянных моделей кораблей. Каталог моделей, страницы моделей, описание, фотографии, статичные страницы, формы заказа. Многоязычный интерфейс. http://lsmodel.ru
 
-## Магазин сантехники
-
-![Магазин сантехники](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/20.png "Магазин сантехники")
-
-Доработка личного кабинета. Размещение на главной 3 товара-акции, доработка блока "Распродажа". Доработка категорий. Доработка меню. Доработка страницы покупки товара. http://santeh-shop.com.ua
-
 ## Агрегатор отзывов
 
 [![Агрегатор отзывов](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/3.png "Агрегатор отзывов")](https://github.com/allexgalbert/workflow/tree/main/PollsQuestions)

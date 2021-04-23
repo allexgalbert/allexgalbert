@@ -187,24 +187,6 @@ https://github.com/allexgalbert/reviewlicms
 
 ![Система онлайн-заказа](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/15.png "Система онлайн-заказа")
 
-## Скрипт работы с яндекс-почтой
-
-Автоматический финдер-активатор-кликер ссылок (подтверждение регистраций, апрув всего чего угодно) на почтовых ящиках Яндекс. Проход по всем папкам (входящие, спам,...), открывание всех(или определенных) писем, нахождение определенной ссылки, клик, переход на страницу, определение результативности по открывшейся странице. https://mail.yandex.ru
-
-![Скрипт работы с яндекс-почтой](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/11.png "Скрипт работы с яндекс-почтой")
-
-## Скрипт работы с биржей ссылок
-
-Автоматический загрузчик множества блогов в Liex. Настройка названия площадки, описания, настройка всех полей (инпутов, чекбоксов, радиобуттонов). Настройка ценовой политики (цена за ссылку за месяц/год/навсегда), указание тематик. http://liex.ru
-
-![Скрипт работы с биржей ссылок](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/10.png "Скрипт работы с биржей ссылок")
-
-## Скрипт работы с wordpress-блогами
-
-Комплексный многопоточный авто-настройщик админок wordpress-блогов (блог-платфомы/standalone) на основе Selenium, с функциями генерации данных для полей. Настройка любых полей и вкладок, чекбоксов, радиобуттонов. Навигация по админке. https://wordpress.com
-
-![Скрипт работы с wordpress-блогами](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/9.png "Скрипт работы с wordpress-блогами")
-
 ## Инструмент очистки баз данных от мусора
 
 [![Инструмент очистки баз данных от мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/2.png "Инструмент очистки баз данных от мусора")](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)

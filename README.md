@@ -229,11 +229,6 @@ https://github.com/allexgalbert/reviewlicms
 
 ![Скрипт загрузки картинок в Google Picasa](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/5.png "Скрипт загрузки картинок в Google Picasa")
 
-## Скрипт парсера ютуб-сайтов
-
-Парсеры для 6 ютубо-подобных сайта: drtuber.com, hardsextube.com, overthumbs.com, pornerbros.com, pornoxo.com, pornper.com. Парсинг категорий, названий, описаний, длительности, тегов, embed-кода, урла роликов во всех категориях с поддержкой заданной глубины пагинации.
-
-![Скрипт парсера ютуб-сайтов](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/3.png "Скрипт парсера ютуб-сайтов")
 
 ## Инструмент очистки баз данных от мусора
 

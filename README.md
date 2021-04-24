@@ -216,7 +216,7 @@ Kohana. http://albertaugustine.com
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/YandexMapParsing)
 
-## [Очистка баз данных MySQL от мусора](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)
+## Очистка баз данных MySQL от мусора
 
 - От плохих ссылок, спама, вредоносного кода, нецензурного контента
 - Автоматическая очистка по всем таблицам и полям

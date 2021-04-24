@@ -216,11 +216,10 @@ Kohana. http://albertaugustine.com
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/YandexMapParsing)
 
-## Инструмент очистки баз данных от мусора
+## Очистка баз данных MySQL от мусора
 
-[![Инструмент очистки баз данных от мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/1.png "Инструмент очистки баз данных от мусора")](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)
-
-Инструмент очистки баз данных на базе MySQL от мусора, плохих ссылок, спама, вредоносного кода, нецензурного контента.
-Автоматическая очистка по всем таблицам и полям, по ключевым словам и словосочетаниям.
+- От плохих ссылок, спама, вредоносного кода, нецензурного контента
+- Автоматическая очистка по всем таблицам и полям
+- По ключевым словам и словосочетаниям
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)

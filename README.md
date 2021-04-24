@@ -91,10 +91,12 @@ Translate. [Код](https://github.com/allexgalbert/workflow/tree/main/TelegramB
 
 ## Биржа фриланса
 
-[![Биржа фриланса](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/4.png "Биржа фриланса")](https://github.com)
+- Реализация на чистом PHP
+- Каталог: фрилансеров, проектов, вакансий, услуг
+- Категории, портфолио, цена
+- Вход через соцсети
 
-На чистом PHP реализована биржа фриланса. Каталог проектов, вакансий, фрилансеров, услуг. Категории, портфолио,
-стоимость. Вход через соцсети. [Код](https://github.com)
+[Код](https://github.com)
 
 ## Агрегатор отзывов
 

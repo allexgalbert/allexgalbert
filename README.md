@@ -119,6 +119,8 @@ Kohana. http://albertaugustine.com
 - Любой тематики
 - Гибкое конфигурирование
 
+[Код](https://github.com/allexgalbert/workflow/tree/main/BlogTitleGenerator)
+
 ## Генератор названий доменов
 
 - Нейтральное слово + тематическое слово
@@ -128,6 +130,8 @@ Kohana. http://albertaugustine.com
 - Тематическое слово + тематическое слово
 - Тематическое слово + '-' + тематическое слово
 
+[Код](https://github.com/allexgalbert/workflow/tree/main/DomainNameGenerator)
+
 ## Сбор вакансий с Indeed.com
 
 - Из всех категорий
@@ -135,17 +139,23 @@ Kohana. http://albertaugustine.com
 - Парсинг зарплаты из строки
 - Данные вставляются в базу
 
+[Код](https://github.com/allexgalbert/workflow/tree/main/IndeedParsing)
+
 ## Автоматические подписки и отписки в Instagram
 
 - С чужого инстаграм-аккаунта собираем фоловеров, подписываемся на фоловеров, лайкаем несколько фоток у каждого фоловера
 - Со своего инстаграм-аккаунта собираем подписчиков и подписки, проходим по списку подписок, отписываемся от аккаунтов
   кто не подписался в ответ
 
+[Код](https://github.com/allexgalbert/workflow/tree/main/InstagramFollowers)
+
 ## Определение страны и города посетителя по IP на основе MaxMind, для фреймворка CodeIgniter
 
 - MaxMind-DB-Reader устанавливается как PHP Extension
 - Определение 2-значного ISO-код страны посетителя по его IP
 - Автоматическое обновление базы GeoLite2-Country.mmdb
+
+[Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/MaxMind.md)
 
 ## Реализация SEO на фреймворке CodeIgniter
 
@@ -211,5 +221,6 @@ Kohana. http://albertaugustine.com
 [![Инструмент очистки баз данных от мусора](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/1.png "Инструмент очистки баз данных от мусора")](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)
 
 Инструмент очистки баз данных на базе MySQL от мусора, плохих ссылок, спама, вредоносного кода, нецензурного контента.
-Автоматическая очистка по всем таблицам и полям, по ключевым словам и
-словосочетаниям. [Код](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)
+Автоматическая очистка по всем таблицам и полям, по ключевым словам и словосочетаниям.
+
+[Код](https://github.com/allexgalbert/workflow/tree/main/DatabaseCleaner)

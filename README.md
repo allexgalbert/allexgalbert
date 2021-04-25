@@ -176,20 +176,11 @@ Esri-Leaflet-Geocoder. [Код](https://github.com/allexgalbert/workflow/blob/ma
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/PersonGenerator)
 
-## Бот-переводчик для Telegram
+## Бот VK и Telegram для перевода диалогов
 
-[![Бот-переводчик для Telegram](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/5.png "Бот-переводчик для Telegram")](https://github.com/allexgalbert/workflow/tree/main/TelegramBot)
-
-Бот работает в связке VK-Telegram. Состоит из 2 частей. Первая часть это бот для VK, его можно добавить в любой чат, и
-он может читать все сообщения в чате. Вторая часть это бот для Telegram, он занимается тем, что собирает сообщения из
-чата VK, переводит на английский язык, и пересылает в Telegram. Кроме английского языка, доступны любые другие языки,
-потому что перевод работает на базе API Google
-Translate. [Код](https://github.com/allexgalbert/workflow/tree/main/TelegramBot)
-
-## Переводчик текстов на основе Google Api Translator
-
-- Для чатов Вконтакте
-- С пересылкой в бот Telegram
+- Первая часть это бот VK который можно добавить в любой чат
+- Вторая часть это переводчик на базе Google API Translate для перевода сообщений
+- Третья часть отправляет переведенные сообщения в Telegram
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/TelegramBot)
 

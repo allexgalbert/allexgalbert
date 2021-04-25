@@ -62,13 +62,14 @@
 Автоматическое определение текущей геолокации пользователя. Использованы библиотеки Leaflet, Esri-Leaflet,
 Esri-Leaflet-Geocoder. [Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/LeafletJS.html)
 
-## Яндекс-карты, вывод городов и адресов на карту
+## Меню городов и адреса на Яндекс-карте
 
-[![Яндекс-карты, вывод городов и адресов на карту](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/7.gif "Яндекс-карты, вывод городов и адресов на карту")](https://github.com/allexgalbert/workflow/tree/main/YandexMapPoints)
+- Создание Яндекс-карты с отдельным меню городов
+- Вывод адресов на карту
+- При клике на город: карта увеличивается и фокусируется
+- У каждого адреса блок: название, адрес, телефон, время работы, сайт
 
-Создание Яндекс-карты с точками городов, и отдельным выводом меню городов. При клике на город, карта увеличивается,
-появляется возможность посмотреть точки (конкретные адреса) в этом
-города. [Код](https://github.com/allexgalbert/workflow/tree/main/YandexMapPoints)
+[Код](https://github.com/allexgalbert/workflow/tree/main/YandexMapPoints)
 
 ## Работа с API Нова Пошта
 

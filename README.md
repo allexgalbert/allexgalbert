@@ -34,7 +34,7 @@
 - Не теряются позиции домена в поисковых системах и ссылочная масса
 - Не нужен переезд с домена на домен
 
-[Код](https://github.com/allexgalbert/workflow/blob/main/BogusSubdomain)
+[Код](https://github.com/allexgalbert/workflow/tree/main/BogusSubdomain)
 
 ## Вывод адресов на карту OpenStreetMap
 

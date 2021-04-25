@@ -52,17 +52,17 @@
 теряя позиции домена в поисковых системах и SEO. Избавляет от переезда с домена на домен и потерю ссылочной
 массы. [Код](https://github.com)
 
-## Работа с картой OpenStreetMap через библиотеку Leaflet
+## Вывод адресов на карту OpenStreetMap
 
-[![Работа с картой OpenStreetMap через библиотеку LeafletJS](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/8.gif "Работа с картой OpenStreetMap через библиотеку LeafletJS")](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/LeafletJS.html)
+- Реализация рендеринга через библиотеки LeafletJS, Esri-Leaflet, Esri-Leaflet-Geocoder
+- Установка маркеров с названием и попапом. Вывод одного или нескольких маркеров
+- Центрирование карты. Масштаб на маркер. Свои иконки маркеров. Прослушивание событий. Удаление маркеров
+- Поле поиска. Нечеткий поиск. Автодополнение при поиске
+- Автоматическое определение текущей геолокации пользователя
 
-Реализация рендеринга карты OpenStreetMap через javascript-библиотеку Leaflet. Установка маркеров, с названием и
-попапом. Вывод одного или нескольких маркеров на карту. Центрирование карты. Масштаб на маркер. Кастомизированные иконки
-маркеров. Прослушивание событий. Удаление маркеров. Поле поиска. Нечеткий поиск. Автодополнение при поиске.
-Автоматическое определение текущей геолокации пользователя. Использованы библиотеки Leaflet, Esri-Leaflet,
-Esri-Leaflet-Geocoder. [Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/LeafletJS.html)
+[Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/LeafletJS.html)
 
-## Меню городов и адреса на Яндекс-карте
+## Меню городов и вывод адресов на Яндекс-карту
 
 - Создание Яндекс-карты с отдельным меню городов
 - Вывод адресов на карту
@@ -143,10 +143,10 @@ Esri-Leaflet-Geocoder. [Код](https://github.com/allexgalbert/workflow/blob/ma
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/InstagramFollowers)
 
-## Определение страны и города посетителя по IP на основе MaxMind, для фреймворка CodeIgniter
+## Определение страны и города пользователя по IP на основе MaxMind, для фреймворка CodeIgniter
 
 - MaxMind-DB-Reader устанавливается как PHP Extension
-- Определение 2-значного ISO-код страны посетителя по его IP
+- Определение 2-значного ISO-код страны пользователя по его IP
 - Автоматическое обновление базы GeoLite2-Country.mmdb
 
 [Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/MaxMind.md)
@@ -189,7 +189,7 @@ Esri-Leaflet-Geocoder. [Код](https://github.com/allexgalbert/workflow/blob/ma
 
 - Сбор групп в поиске, по заданым ключевым словам
 - Сбор профилей, с групп
-- Отправка мессаги юзеру
+- Отправка сообщений пользователям
 - Проверка наличия личных сообщений
 - Сбор картинок с пабликов вконтакте
 

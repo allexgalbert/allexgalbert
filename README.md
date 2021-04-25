@@ -156,7 +156,7 @@
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/InstagramFollowers)
 
-## Реализация кнопки "Ещё" для каталога на фреймворке CodeIgniter
+## Кнопка "Ещё" для каталога на фреймворке CodeIgniter
 
 - Стандартная постраничная пагинация переписана на кнопку "Ещё"
 - За основу взят пагинатор ядра фреймворка
@@ -165,10 +165,11 @@
 
 [Код](https://github.com)
 
-## Определение страны и города пользователя по IP на основе MaxMind, для фреймворка CodeIgniter
+## Определение геолокации на основе MaxMind
 
+- Модуль для фреймворка CodeIgniter
 - MaxMind-DB-Reader устанавливается как PHP Extension
-- Определение 2-значного ISO-код страны пользователя по его IP
+- Определение 2-значного ISO-кода страны пользователя по его IP
 - Автоматическое обновление базы GeoLite2-Country.mmdb
 
 [Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/MaxMind.md)
@@ -197,13 +198,13 @@
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/TelegramBot)
 
-## Система работы с Вконтакте с использованием Selenium
+## Система работы с VK с использованием Selenium
 
 - Сбор групп в поиске, по заданым ключевым словам
 - Сбор профилей, с групп
 - Отправка сообщений пользователям
 - Проверка наличия личных сообщений
-- Сбор картинок с пабликов вконтакте
+- Сбор картинок с пабликов
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/VkParsingPosting)
 

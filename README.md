@@ -21,15 +21,18 @@
 
 ## Reviewli CMS
 
-[![Reviewli CMS](https://raw.githubusercontent.com/allexgalbert/reviewlicms/main/DOC/fullLogo.png "Reviewli CMS")](https://github.com/allexgalbert/reviewlicms)
+- Fast and easy open source CMS
 
-## Динамическая Кнопка "Ещё" на каталоге товаров
+[Код](https://github.com/allexgalbert/reviewlicms)
 
-[![Динамическая Кнопка 'Ещё' на каталоге товаров](https://raw.githubusercontent.com/allexgalbert/workflow/main/Portfolio/imgs/10.gif "Динамическая Кнопка 'Ещё' на каталоге товаров")](https://github.com)
+## Реализация кнопки "Ещё" для каталога на фреймворке CodeIgniter
 
-Каталог на CodeIgniter 3. Стандартная постраничная пагинация переписана на кнопку "Ещё". За основу взят пагинатор ядра
-фреймворка. Кнопка работает корректно со стандартной пагинацией, показывает оставшееся количество товара, который можно
-подгрузить. [Код](https://github.com)
+- Стандартная постраничная пагинация переписана на кнопку "Ещё"
+- За основу взят пагинатор ядра фреймворка
+- Кнопка работает корректно вместе со стандартной пагинацией
+- Показывает оставшееся количество товара, который можно подгрузить
+
+[Код](https://github.com)
 
 ## Система работы сайта на поддомене
 

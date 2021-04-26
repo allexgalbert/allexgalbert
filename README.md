@@ -152,7 +152,7 @@
 - Кнопка работает корректно вместе со стандартной пагинацией
 - Показывает оставшееся количество товара, который можно подгрузить
 
-[Код](https://github.com)
+[Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/CodeIgniterPaginator.md)
 
 ## Определение геолокации на основе MaxMind
 

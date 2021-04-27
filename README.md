@@ -4,11 +4,10 @@
 - **Experience** 12 years of programming experience
   <br><br>
 - **Backend** PHP, CodeIgniter, Laravel, MySQL, MariaDB
-- **Frontend** HTML, CSS, JavaScript, jQuery, Bootstrap
+- **Frontend** Bootstrap, JavaScript, jQuery, Lodash, Axios
   <br><br>
-- **CMS** WordPress, PhpBB
 - **API** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram
-- **Projects** Shops, Catalogs, Blogs, Dashboards
+- **Projects** Shops, Catalogs, Dashboards
   <br><br>
 - **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer
 - **Working time** Monday - Friday, 10:00 - 18:00

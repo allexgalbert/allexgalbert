@@ -20,7 +20,9 @@
 
 ## Reviewli CMS
 
-- Fast and easy open source CMS
+- Быстрая и простая CMS с открытым исходным кодом
+- Немного похожа на Trustpilot или Tripadvisor
+- Предназначена для создания каталога сайтов с отзывами о них
 
 [Код](https://github.com/allexgalbert/reviewlicms)
 

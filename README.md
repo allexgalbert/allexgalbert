@@ -1,4 +1,4 @@
-# Portfolio
+# Био
 
 - **Age** 40 years old
 - **Experience** 12 years of programming experience
@@ -16,7 +16,7 @@
 - **Hourly Rate** $25/hour
 - **Languages** Русский родной, English Basic
 
-# Jobs
+# Портфолио
 
 ## Reviewli CMS
 

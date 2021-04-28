@@ -25,7 +25,7 @@
 - Немного похожа на Trustpilot или Tripadvisor
 - Предназначена для создания каталога сайтов с отзывами о них
 
-[Код](https://github.com/allexgalbert/reviewlicms)
+[Репозитарий](https://github.com/allexgalbert/reviewlicms)
 
 ## Система работы сайта на поддомене
 

@@ -46,7 +46,7 @@
 - Поле поиска. Нечеткий поиск. Автодополнение при поиске
 - Автоматическое определение текущей геолокации пользователя
 
-[Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/LeafletJS.html)
+[Код](https://github.com/allexgalbert/workflow/tree/main/OpenStreetMap)
 
 ## Меню городов и вывод адресов на Яндекс-карту
 

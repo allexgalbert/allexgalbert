@@ -74,15 +74,6 @@
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/NovaPoshta)
 
-## Coplodder CMS
-
-- Каталог: фрилансеров, проектов, вакансий, услуг
-- Категории, портфолио, цена
-- Вход через соцсети
-- Реализация на чистом PHP
-
-[Репозитарий](https://github.com/allexgalbert/coploddercms)
-
 ## Агрегатор отзывов
 
 - Оставление отзывов по каналам: Веб, QR-code, СМС, АТС

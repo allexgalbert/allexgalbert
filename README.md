@@ -162,7 +162,7 @@
 - Установка языка в урл /lang/ для всех ссылок
 - Подгрузка файлов с сообщениями из языковых папок
 
-[Код](https://github.com/allexgalbert/workflow/blob/main/MiniSolutions/CodeIgniterLanguages.md)
+[Код](https://github.com/allexgalbert/workflow/tree/main/CodeIgniterLanguages)
 
 ## Бот VK и Telegram для перевода диалогов
 

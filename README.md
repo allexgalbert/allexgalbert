@@ -172,6 +172,15 @@
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/TelegramBot)
 
+## Система работы с dating.ru с использованием Selenium
+
+- Парсинг профилей по параметрам: пол, возраст, город
+- Сбор профилей в бд
+- Постинг на профиля по параметрам: пол, колво профилей за раз
+- Личные сообщения с автоподстановкаой имени профиля
+
+[Код](https://github.com/allexgalbert/workflow/tree/main/DatingParsingPosting)
+
 ## Система работы с VK с использованием Selenium
 
 - Сбор групп в поиске, по заданым ключевым словам

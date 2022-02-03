@@ -18,6 +18,7 @@
 - **Languages** Русский родной, English Basic
   <br><br>
 - **Email** allexgalbert@gmail.com
+- **Telegram** https://t.me/allexgalbert
 
 # Портфолио
 

@@ -17,7 +17,7 @@
 - **Hourly Rate** $25/hour
 - **Languages** Русский родной, English Basic
   <br><br>
-- **Email** mailto:allexgalbert@gmail.com
+- **Email** allexgalbert@gmail.com
 
 # Портфолио
 

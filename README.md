@@ -1,10 +1,10 @@
 # Био
 
-- **Age** 40 years old
+- **Age** 41 years old
 - **Education** Volga State University of Technology, Radio Engineering Department, 1998-2003
 - **Experience** 12 years of programming experience
   <br><br>
-- **Backend** PHP, CodeIgniter, Laravel, MySQL, MariaDB
+- **Backend** #PHP, CodeIgniter, Laravel, MySQL, MariaDB
 - **Frontend** Bootstrap, JavaScript, jQuery, Lodash, Axios
   <br><br>
 - **API** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram

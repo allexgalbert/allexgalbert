@@ -19,6 +19,7 @@
   <br><br>
 - **Email** allexgalbert@gmail.com
 - **Telegram** https://t.me/allexgalbert
+- **LinkedIn** https://www.linkedin.com/in/allexgalbert
 
 # Портфолио
 

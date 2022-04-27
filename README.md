@@ -11,7 +11,7 @@
   <br><br>
 - **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer
 - **Working time** Monday - Friday, 10:00 - 18:00
-- **Timezone** Europe/Moscow UTC+3:00 MSK
+- **Location** Turkey/Antalya UTC+3 TRT
   <br><br>
 - **Hourly Rate** $25/hour
 - **Languages** Русский родной, English Basic

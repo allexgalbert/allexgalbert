@@ -3,13 +3,13 @@
 - **Education** Volga State University of Technology, Radio Engineering Department, 1998-2003
 - **Experience** 14 years of programming experience
   <br><br>
-- **Backend** PHP, CodeIgniter, Yii, Laravel, MySQL, MariaDB
+- **Backend** PHP, CodeIgniter, Yii, Laravel, MySQL, MariaDB, REST API
 - **Frontend** HTML, CSS, Bootstrap, JavaScript, jQuery, Lodash, Axios
   <br><br>
-- **API** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram
-- **Projects** Shops, Catalogs, Dashboards, E-Commerce, Billing, Real Estates
+- **API** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram, Vkontakte
+- **Projects** Online Shops, Catalogs, Dashboards, E-Commerce, Billing, Real Estate, CMS, Dating
   <br><br>
-- **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer, RabbitMQ, Selenium
+- **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer, RabbitMQ, Selenium, Docker, Vagrant, Apache, Nginx
 - **Working time** Monday - Friday, 10:00 - 18:00
 - **Location** Turkey/Antalya UTC+3 TRT
   <br><br>

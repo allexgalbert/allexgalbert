@@ -3,18 +3,18 @@
 - **Education** Volga State University of Technology, Radio Engineering Department, 1998-2003
 - **Experience** 14 years of programming experience
   <br><br>
-- **Backend** PHP, CodeIgniter, Laravel, MySQL, MariaDB
-- **Frontend** Bootstrap, JavaScript, jQuery, Lodash, Axios
+- **Backend** PHP, CodeIgniter, Yii, Laravel, MySQL, MariaDB
+- **Frontend** HTML, CSS, Bootstrap, JavaScript, jQuery, Lodash, Axios
   <br><br>
 - **API** Google Maps, Google Translate, Yandex Maps, Facebook, Telegram
-- **Projects** Shops, Catalogs, Dashboards
+- **Projects** Shops, Catalogs, Dashboards, E-Commerce, Billing, Real Estates
   <br><br>
-- **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer
+- **Tools** PhpStorm, Workbench, HeidiSQL, Git, Composer, RabbitMQ, Selenium
 - **Working time** Monday - Friday, 10:00 - 18:00
 - **Location** Turkey/Antalya UTC+3 TRT
   <br><br>
 - **Hourly Rate** $25/hour
-- **Languages** Русский родной, English Basic
+- **Languages** Русский родной, English Intermediate B1
   <br><br>
 - **Email** allexgalbert@gmail.com
 - **Telegram** https://t.me/allexgalbert

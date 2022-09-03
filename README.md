@@ -17,8 +17,6 @@
 - **Hourly Rate** $25/hour
 - **Languages** Русский родной, English Intermediate B1
   <br><br>
-- **Email** allexgalbert@gmail.com
-- **Telegram** https://t.me/allexgalbert
 - **LinkedIn** https://www.linkedin.com/in/allexgalbert
 
 # Портфолио

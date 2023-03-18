@@ -86,15 +86,6 @@
 
 [Код](https://github.com/allexgalbert/workflow/tree/main/YandexMapParsing)
 
-## Работа с API Нова Пошта
-
-- Нова Пошта это сервис доставки почты на Украине https://novaposhta.ua
-- Для магазина на базе CodeIgniter реализован функционал в личном кабинете клиента
-- Создание и редактирование адреса на основе выбора областей, городов, и отделений
-- Данные собираются по API и сохраняются в базу
-
-[Код](https://github.com/allexgalbert/workflow/tree/main/NovaPoshta)
-
 ## Агрегатор отзывов
 
 - Оставление отзывов по каналам: Веб, QR-code, СМС, АТС

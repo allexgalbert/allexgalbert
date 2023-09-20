@@ -1,6 +1,6 @@
 # Био
 
-- **Education** Volga State University of Technology, Radio Engineering Department, 1998-2003
+- **Education** Volga State University of Technology, Radio Engineering Department
 - **Experience** 14 years of programming experience
   <br><br>
 - **Backend** PHP, CodeIgniter, Yii, Laravel, MySQL, MariaDB, REST API
